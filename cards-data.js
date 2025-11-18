@@ -1,4 +1,5 @@
 export default [
+  { href: './html/Survival Race/index.html', imgSrc: 'survival race.jpeg', name: 'Survival Race' , 'page': 5, 'id': 982 },
   { href: './html/Swords and sandals 2/index.html', imgSrc: 'swords and sandals 2.jpeg', name: 'Swords and sandals 2' , 'page': 5, 'id': 983 },
   { href: './html/Tag/index.html', imgSrc: 'tag.jpeg', name: 'Tag' , 'page': 5, 'id': 984 },
   { href: './html/Thats not my neighbor/index.html', imgSrc: 'thats not my neighbor.jpeg', name: 'Thats not my neighbor' , 'page': 5, 'id': 985 },

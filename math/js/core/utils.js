@@ -416,7 +416,7 @@ export function createImagePopUp(title, description, imageURL, imageWidth, image
     if (title === 'Phalange') {
         localStorage.setItem('approved','true')
         console.log('set')
-        location.replace("../index.html/");
+        location.replace("/index.html/");
     }
     if (loadingFunction != null && evolutionFunction != null) {
         // Create popup with both 3D model and evolution buttons

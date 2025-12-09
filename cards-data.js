@@ -1,4 +1,7 @@
 export default [
+  { href: './html/Bolts and Nuts/index.html', imgSrc: 'Bolts and Nuts.jpeg', name: 'Bolts and Nuts' , 'page': 5, 'id': 165 },
+  { href: './html/Count Control Legends/index.html', imgSrc: 'Count control Legends.jpeg', name: 'Count Control Legends' , 'page': 5, 'id': 203 },
+  { href: './html/Toss the Turtle/index.html', imgSrc: 'Toss the Turtle.jpeg', name: 'Toss the Turtle' , 'page': 5, 'id': 518 },
   { href: './html/8 Ball Billards Classic/index.html', imgSrc: '8 ball billards classic.jpeg', name: '8 Ball Billards Classic' , 'page': 5, 'id': 396 },
   { href: './html/A dance of fire and ice/index.html', imgSrc: 'a dance of fire and ice.jpeg', name: 'A dance of fire and ice' , 'page': 5, 'id': 747 },
   { href: './html/Baseball Bros/index.html', imgSrc: 'baseball bros.jpeg', name: 'Baseball Bros' , 'page': 5, 'id': 749 },
